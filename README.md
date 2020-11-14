@@ -1,6 +1,4 @@
-# data-512-final
-
-## DATA 512 Human Centered Data Science Final Project
+# DATA 512 Human Centered Data Science Final Project
 
 ### Introduction
 This is the repository for my final project in the DATA 512 Human Centered Data Science course (Autumn 2020, University of Washington, Master of Science in Data Science program). 
