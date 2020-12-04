@@ -13,3 +13,21 @@ Globally, women account for barely one quarter of the representation in parliame
 
 ### Data Source  
 I am leveraging data from the OECD website database: https://stats.oecd.org/index.aspx?queryid=54760#
+
+### Data Dictionary
+
+Definitions from OECD and https://www.genderindex.org/methodology/
+
+Column | Definition 
+:--- | :---
+Share of Women in Parliament | Percentage of women who make up a country's parliamentary body
+Female share of seats on boards of the largest publicly listed companies | Proportion of seats held by women on boards for companies covered by the MSCI ACWI index -- an index of around 2,400 large- and mid-cap firms from developed and emerging countries. 'Board members' refers to either the board of directors for companies in a unitary system, or the supervisory board in the case of a company in a two-tier system, with management and audit boards ommitted.
+Share of female managers | Percentage of all managers who are women
+Length of Maternity Leave | number of weeks of job-protected leave available for mothers just before and after childbirth.
+Access to Financial Services Law | Whether women and men have the same legal rights to open a bank account and obtain credit in a formal financial institution. Values range from 0 to 1 on a 0.25 pt scale. 0 indicates Women and men have the same rights to open a bank account and obtain credit at a formal financial institution, without legal exceptions regarding some groups of women. Customary, religious and traditional laws or practices do not discriminate against women’s above legal rights. 0 indicates that women have the same rights as men  and customs do not discriminate against women’s above legal rights. 1 indicates that women do not have the same rights as men in this regard.
+Divorce Law | Whether women and men have the same legal rights to initiate divorce and have the same requirements for divorce or annulment. Values range from 0 to 1 on a 0.25 pt scale. 0 indicates that women have the same rights to initiate divorce as men, without negative repercussions on their parental authority. Customs do not discriminate against women’s rights regarding divorce or parental authority after divorce. 1 indicates that women do not have the same rights as men with respect to initiating and finalizing divorce and experience restricted parental rights after divorce.
+Reproductive Autonomy Law | Whether the legal framework protects women’s reproductive health and rights. Values range from 0 to 1 on a 0.25 pt scale. 0 indicates that the country's laws protect women’s reproductive health and rights in case of unwanted pregnancy, without any justifications. 1 indicates that these rights are not protected in the case of unwanted pregnancy.  
+Household Responsibilities Attitudes | Percentage of the population agreeing or agreeing strongly that "when a mother works for pay, the children suffer".
+Violence Against Women Practices | Percentage of ever-partnered women who ever suffered intimate partner physical and/or sexual violence.
+
+
