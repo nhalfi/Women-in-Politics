@@ -19,6 +19,9 @@ To answer my research question, I utilized data from the OECD and performed a de
 ### Background
 Globally, women account for barely one quarter of the representation in parliamentary/legislative bodies, and as of 2019, the [U.S. ranked 75th out of 193 world countries](https://www.cnbc.com/2019/03/04/the-us-ranks-75th-in-womens-representation-in-government.html) on the share of women in goverment. However, research shows that women perform just as well as men in elections, and the socio-economic benefits of greater female representation are well-documented. Therefore, the low number of women in govemerment may be attributed to systemic obstacles that hinder women from pursuing a path in politics. This project seeks to explore how key indicators of gender parity, like education, earnings, representation in the commercial sector, and maternity leave, may be associated with female representation in political bodies. For additional details and sources on background work, please refer to the [project proposal](https://github.com/nhalfi/data-512-final/blob/main/final_project.ipynb) in this repository.
 
+### Dependencies
+[Python, Jupyter notebook, etc]
+
 ### Data Source  
 I leveraged data from the OECD website database: https://stats.oecd.org/index.aspx?queryid=54760#
 
