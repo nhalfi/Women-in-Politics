@@ -18,23 +18,17 @@ To answer my research question, I utilized OECD data and performed a descriptive
 
 To see the complete analysis, please refer to this [Jupyter notbeook]().
 
-
-### Dependencies
-[Python, Jupyter notebook, etc]
-
 ### Data Source  
 I leveraged the following sources from the OECD website database:  
 * [Gender, Institutions and Development Database (GID-DB) 2014](https://stats.oecd.org/Index.aspx?DataSetCode=GIDDB2019)
 * [Gender, Institutions and Development Database (GID-DB) 2019](https://stats.oecd.org/Index.aspx?DataSetCode=GIDDB2014)
 * [Employment dataset](https://stats.oecd.org/Index.aspx?DataSetCode=GENDER_EMP)
 
-### License and Terms of Use
-Please refer to the following [license](https://github.com/nhalfi/Women-in-Politics/blob/main/LICENSE).  
-Also, you can find the OECD's terms and conditions for use of data [here](http://www.oecd.org/termsandconditions/).
 
 ### Data Dictionary
 
-Definitions from [OECD](https://www.genderindex.org/methodology/)  
+The following definitions are from the [OECD documentation](https://www.genderindex.org/methodology/).  
+
 [**2014 Dataset**](https://github.com/nhalfi/Women-in-Politics/blob/main/Data/Transformed%20Data/WIP2014.csv)
 Column | Definition 
 :--- | :---
@@ -52,5 +46,21 @@ Divorce | Whether women and men have the same legal rights to initiate divorce a
 Household Responsibilities Attitudes | Percentage of the population agreeing or agreeing strongly that "when a mother works for pay, the children suffer".
 Political Representation | Percentage of women in the total number of representatives of the lower or single House of the Parliament.
 Reproductive Autonomy | Whether the legal framework protects women’s reproductive health and rights. Values range from 0 to 1 on a 0.25 pt scale. 0 indicates that the country's laws protect women’s reproductive health and rights in case of unwanted pregnancy, without any justifications. 1 indicates that these rights are not protected in the case of unwanted pregnancy.  
-Violence Against Women Practices | Percentage of ever-partnered women who ever suffered intimate partner physical and/or sexual violence.
+Violence Against Women | Percentage of ever-partnered women who ever suffered intimate partner physical and/or sexual violence.
 
+### Dependencies
+To reproduce the results obtained in this analysis, you will need:  
+* A recent version of [Python](https://www.python.org/) installed (3.7 or higher)
+* The following packages installed:
+  + Matplotlib
+  + Numpy
+   + Pandas
+   + Pandas_profiling
+  + Seaborn
+  + Sklearn
+  + Statsmodels
+* An IDE to run Jupyter notebooks in ([I like to use Visual Studio Code](https://code.visualstudio.com/))
+
+### License and Terms of Use
+Please refer to the following [license](https://github.com/nhalfi/Women-in-Politics/blob/main/LICENSE).  
+Also, you can find the OECD's terms and conditions for use of data [here](http://www.oecd.org/termsandconditions/).
