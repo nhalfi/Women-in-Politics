@@ -16,7 +16,7 @@
 
 To answer my research question, I utilized OECD data and performed a descriptive correlative analysis, as well as a predictive analysis via linear regression models. I was unable to support my hypothesis given that the included gender parity indicators demonstrated weak correlations (under 0.5) with the rate of political representation, and the models I constructed did not predict well (R-squared of below 0.3 and MAE of roughly 9 percentage points). However, further research is needed to validate the relationship between gender parity indicators and women’s political representation.
 
-**To see the complete analysis, please refer to this [Jupyter notebook](https://github.com/nhalfi/Women-in-Politics/blob/main/FinalProjectAnalysis.ipynb).**
+**To see the complete analysis, please refer to this [Jupyter notebook](https://nbviewer.jupyter.org/github/nhalfi/Women-in-Politics/blob/main/FinalProjectAnalysis.ipynb).**
 
 ### Repository Guidance
 In addition to the main analysis notebook linked above, I've also included:
