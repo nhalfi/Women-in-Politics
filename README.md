@@ -19,7 +19,7 @@ To answer my research question, I utilized OECD data and performed a descriptive
 **To see the complete analysis, please refer to this [Jupyter notebook](https://github.com/nhalfi/Women-in-Politics/blob/main/FinalProjectAnalysis.ipynb).**
 
 ### Repository Guidance
-In addition the main analysis notebook linked above, I've also included:
+In addition to the main analysis notebook linked above, I've also included:
 * A [Data folder](https://github.com/nhalfi/Women-in-Politics/tree/main/Data). This contains two subfolders; one with the raw data that I downloaded from the OECD site, and another with the transformed datasets that I generated through the data cleaning steps in the Jupyter notebook.
 * A [Visualizations folder](https://github.com/nhalfi/Women-in-Politics/tree/main/Visualizations). This contains two subfolders; one with plots from the descriptive analysis portion, and the other with plots generated from the predictive analysis section.
 
