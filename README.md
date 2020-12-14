@@ -16,12 +16,17 @@
 
 To answer my research question, I utilized OECD data and performed a descriptive correlative analysis, as well as a predictive analysis via linear regression models. I was unable to support my hypothesis given that the included gender parity indicators demonstrated weak correlations (under 0.5) with the rate of political representation, and the models I constructed did not predict well (R-squared of below 0.3 and MAE of roughly 9 percentage points). However, further research is needed to validate the relationship between gender parity indicators and women’s political representation.
 
-To see the complete analysis, please refer to this [Jupyter notbeook]().
+**To see the complete analysis, please refer to this [Jupyter notebook](https://github.com/nhalfi/Women-in-Politics/blob/main/FinalProjectAnalysis.ipynb).**
+
+### Repository Guidance
+In addition the main analysis notebook linked above, I've also included:
+* A [Data folder](https://github.com/nhalfi/Women-in-Politics/tree/main/Data). This contains two subfolders; one with the raw data that I downloaded from the OECD site, and another with the transformed datasets that I generated through the data cleaning steps in the Jupyter notebook.
+* A [Visualizations folder](https://github.com/nhalfi/Women-in-Politics/tree/main/Visualizations). This contains two subfolders; one with plots from the descriptive analysis portion, and the other with plots generated from the predictive analysis section.
 
 ### Data Source  
 I leveraged the following sources from the OECD website database:  
-* [Gender, Institutions and Development Database (GID-DB) 2014](https://stats.oecd.org/Index.aspx?DataSetCode=GIDDB2019)
-* [Gender, Institutions and Development Database (GID-DB) 2019](https://stats.oecd.org/Index.aspx?DataSetCode=GIDDB2014)
+* [Gender, Institutions and Development Database (GID-DB) 2014](https://stats.oecd.org/Index.aspx?DataSetCode=GIDDB2014)
+* [Gender, Institutions and Development Database (GID-DB) 2019](https://stats.oecd.org/Index.aspx?DataSetCode=GIDDB2019)
 * [Employment dataset](https://stats.oecd.org/Index.aspx?DataSetCode=GENDER_EMP)
 
 
